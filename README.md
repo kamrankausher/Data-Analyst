@@ -51,7 +51,3 @@ No video tutorials required — every topic is explained in-depth with logical a
 
 ---
 
-## 🎯 Target Audience
-*   **Absolute Beginners**: High-school and college students who want to build a career in data science.
-*   **Intermediate Learners**: Analysts looking to solidify their logical understanding of SQL execution or DAX engine behavior.
-*   **Interview Candidates**: Professionals preparing for technical case studies and whiteboarding questions at top tech companies.
