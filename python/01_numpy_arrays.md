@@ -1,4 +1,4 @@
-# Chapter 1: NumPy (Numerical Python) for Data Analysis
+# Chapter 1: NumPy for Data Analysis
 
 NumPy is the foundational library for scientific computing in Python. While you will spend most of your time in Pandas as a Data Analyst, Pandas is built on top of NumPy. Understanding how NumPy manages arrays, indices, and vectorization is crucial for high-performance data processing.
 
